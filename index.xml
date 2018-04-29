@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew Waite</title>
-    <link>https://andywaite.github.io/</link>
+    <link>https://andywaite.me/</link>
     <description>Recent content on Andrew Waite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="https://andywaite.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andywaite.me/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
