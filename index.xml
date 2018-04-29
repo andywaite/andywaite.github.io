@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew Waite</title>
-    <link>http://andywaite.me/</link>
+    <link>/</link>
     <description>Recent content on Andrew Waite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Sun, 29 Apr 2018 22:17:46 +0200</lastBuildDate>
     
-	<atom:link href="http://andywaite.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New personal website</title>
+      <link>/post/new-personal-site/</link>
+      <pubDate>Sun, 29 Apr 2018 22:17:46 +0200</pubDate>
+      
+      <guid>/post/new-personal-site/</guid>
+      <description> Introduction </description>
+    </item>
     
   </channel>
 </rss>
